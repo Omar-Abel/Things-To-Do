@@ -15,7 +15,7 @@ public class ayuda3 extends javax.swing.JFrame {
         initComponents();
         this.setLocationRelativeTo(null);
         this.setResizable(false);
-        rsscalelabel.RSScaleLabel.setScaleLabel(paso3, "/home/darielrdriguez/NetBeansProjects/To-Do/InterfazG/Java interfazG/interfaz ayuda/Captura de pantalla 2022-12-09 103447.png");
+        rsscalelabel.RSScaleLabel.setScaleLabel(paso3, "C:\\Users\\omarl\\Dev\\To-Do\\InterfazG\\Java interfazG\\interfaz ayuda\\Captura de pantalla 2022-12-09 103447.png");
     }
 
     /**

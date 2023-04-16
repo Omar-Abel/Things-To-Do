@@ -28,10 +28,10 @@ public class AdminApp extends javax.swing.JFrame {
         informacionTareas(); 
         this.setLocationRelativeTo(null);
         this.setResizable(false);
-        rsscalelabel.RSScaleLabel.setScaleLabel(agg, "/home/darielrdriguez/NetBeansProjects/To-Do/InterfazG/Java interfazG/add-note-4110_J4mvUNczA.png");
-        rsscalelabel.RSScaleLabel.setScaleLabel(act, "/home/darielrdriguez/NetBeansProjects/To-Do/InterfazG/Java interfazG/reload-5685_XLZ_AAD5b.png");
-        rsscalelabel.RSScaleLabel.setScaleLabel(borr, "/home/darielrdriguez/NetBeansProjects/To-Do/InterfazG/Java interfazG/remove-note-4109_APcswrtQZ.png");
-        rsscalelabel.RSScaleLabel.setScaleLabel(ayuda, "/home/darielrdriguez/NetBeansProjects/To-Do/InterfazG/Java interfazG/wrench-5969_WfhrMla0Z.png");
+        rsscalelabel.RSScaleLabel.setScaleLabel(agg, "C:\\Users\\omarl\\Dev\\To-Do\\InterfazG\\Java interfazG\\add-note-4110_J4mvUNczA.png");
+        rsscalelabel.RSScaleLabel.setScaleLabel(act, "C:\\Users\\omarl\\Dev\\To-Do\\InterfazG\\Java interfazG\\reload-5685_XLZ_AAD5b.png");
+        rsscalelabel.RSScaleLabel.setScaleLabel(borr, "C:\\Users\\omarl\\Dev\\To-Do\\InterfazG\\Java interfazG\\remove-note-4109_APcswrtQZ.png");
+        rsscalelabel.RSScaleLabel.setScaleLabel(ayuda, "C:\\Users\\omarl\\Dev\\To-Do\\InterfazG\\Java interfazG\\wrench-5969_WfhrMla0Z.png");
     }
 
     /**

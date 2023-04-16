@@ -18,10 +18,10 @@ public class Menu extends javax.swing.JFrame {
         initComponents();
         this.setLocationRelativeTo(null);
         this.setResizable(false);
-        rsscalelabel.RSScaleLabel.setScaleLabel(salir, "/home/darielrdriguez/NetBeansProjects/To-Do/InterfazG/Java interfazG/cancel-5637_Ls9glpCn-.png");
-        rsscalelabel.RSScaleLabel.setScaleLabel(acerca, "/home/darielrdriguez/NetBeansProjects/To-Do/InterfazG/Java interfazG/info-help-358_3-A0SjLtW.png");
-        rsscalelabel.RSScaleLabel.setScaleLabel(cerrars, "/home/darielrdriguez/NetBeansProjects/To-Do/InterfazG/Java interfazG/quit-378_A_eNGK8Lq.png");
-        rsscalelabel.RSScaleLabel.setScaleLabel(ayuda, "/home/darielrdriguez/NetBeansProjects/To-Do/InterfazG/Java interfazG/wrench-5969_WfhrMla0Z.png");
+        rsscalelabel.RSScaleLabel.setScaleLabel(salir, "C:\\Users\\omarl\\Dev\\To-Do\\InterfazG\\Java interfazG\\cancel-5637_Ls9glpCn-.png");
+        rsscalelabel.RSScaleLabel.setScaleLabel(acerca, "C:\\Users\\omarl\\Dev\\To-Do\\InterfazG\\Java interfazG\\info-help-358_3-A0SjLtW.png");
+        rsscalelabel.RSScaleLabel.setScaleLabel(cerrars, "C:\\Users\\omarl\\Dev\\To-Do\\InterfazG\\Java interfazG\\quit-378_A_eNGK8Lq.png");
+        rsscalelabel.RSScaleLabel.setScaleLabel(ayuda, "C:\\Users\\omarl\\Dev\\To-Do\\InterfazG\\Java interfazG\\wrench-5969_WfhrMla0Z.png");
     }
 
     /**
@@ -73,7 +73,7 @@ public class Menu extends javax.swing.JFrame {
         jPanel1.add(btniniciar, new org.netbeans.lib.awtextra.AbsoluteConstraints(110, 110, 190, 50));
 
         salir.setText("sal");
-        jPanel1.add(salir, new org.netbeans.lib.awtextra.AbsoluteConstraints(250, 450, 30, 30));
+        jPanel1.add(salir, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 450, 30, 30));
 
         btnsalir.setBackground(new java.awt.Color(3, 4, 94));
         btnsalir.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
@@ -90,7 +90,7 @@ public class Menu extends javax.swing.JFrame {
         jPanel1.add(acerca, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 210, 30, 30));
 
         cerrars.setText("sing");
-        jPanel1.add(cerrars, new org.netbeans.lib.awtextra.AbsoluteConstraints(270, 370, 30, 30));
+        jPanel1.add(cerrars, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 370, 30, 30));
 
         btnacercade.setBackground(new java.awt.Color(3, 4, 94));
         btnacercade.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N

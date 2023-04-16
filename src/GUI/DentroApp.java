@@ -34,10 +34,10 @@ public class DentroApp extends javax.swing.JFrame{
         jPanel2.setVisible(false);
         jCalendar1.setVisible(false);
         jButton2.setVisible(false);
-        rsscalelabel.RSScaleLabel.setScaleLabel(agg, "/home/darielrdriguez/NetBeansProjects/To-Do/InterfazG/Java interfazG/add-note-4110_J4mvUNczA.png");
-        rsscalelabel.RSScaleLabel.setScaleLabel(act, "/home/darielrdriguez/NetBeansProjects/To-Do/InterfazG/Java interfazG/reload-5685_XLZ_AAD5b.png");
-        rsscalelabel.RSScaleLabel.setScaleLabel(borr, "/home/darielrdriguez/NetBeansProjects/To-Do/InterfazG/Java interfazG/remove-note-4109_APcswrtQZ.png");
-        rsscalelabel.RSScaleLabel.setScaleLabel(comp, "/home/darielrdriguez/NetBeansProjects/To-Do/InterfazG/Java interfazG/happy-emoji-2947_XWI8qzIMz.png");
+        rsscalelabel.RSScaleLabel.setScaleLabel(agg, "C:\\Users\\omarl\\Dev\\To-Do\\InterfazG\\Java interfazG\\add-note-4110_J4mvUNczA.png");
+        rsscalelabel.RSScaleLabel.setScaleLabel(act, "C:\\Users\\omarl\\Dev\\To-Do\\InterfazG\\Java interfazG\\reload-5685_XLZ_AAD5b.png");
+        rsscalelabel.RSScaleLabel.setScaleLabel(borr, "C:\\Users\\omarl\\Dev\\To-Do\\InterfazG\\Java interfazG\\remove-note-4109_APcswrtQZ.png");
+        rsscalelabel.RSScaleLabel.setScaleLabel(comp, "C:\\Users\\omarl\\Dev\\To-Do\\InterfazG\\Java interfazG\\happy-emoji-2947_XWI8qzIMz.png");
     }
 
     /**
